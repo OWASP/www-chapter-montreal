@@ -7,7 +7,6 @@ level: 0
 
 region: Canada
 
-auto-migrated: 1
 
 ---
 
