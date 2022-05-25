@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information / Informations sur le Chapitre
+* Montreal City, QC, Canada
+* Ville de Montréal, QC, Canada
 
-### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+### Social Links / Liens vers les réseaux sociaux
+* [Discord du HackFest](https://discord.gg/WcT5Xrd)
