@@ -9,6 +9,9 @@ country: Canada
 postal-code: H2Y 2H6
 ---
 
+![Montreal Chapter Logo](assets/images/ville_quebec_981x303.png)
+
+---
 ## Welcome / Bienvenue
 Bienvenue sur la page d'accueil du Chapitre de Montréal.
 <br>
