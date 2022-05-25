@@ -15,7 +15,6 @@ postal-code: H2Y 2H6
 ## Welcome / Bienvenue
 Bienvenue sur la page d'accueil du Chapitre de Montréal.
 <br>
-<br>
 Welcome to the Montreal Chapter Homepage.
 
 ## Participation
