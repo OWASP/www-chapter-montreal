@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Montreal
-tags: montreal
+tags: OWASPMTL
 region: Canada
 meetup-group:
 country: Canada
