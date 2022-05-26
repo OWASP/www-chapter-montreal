@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Montreal
 tags: OWASPMTL
-region: Canada
+region: North America
 meetup-group:
 country: Canada
 postal-code: H2Y 2H6
