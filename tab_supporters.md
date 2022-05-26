@@ -7,7 +7,7 @@ order: 2
 tags: OWASPMTL
 ---
 
-##Supporters
+Supporters
 ----------
 Nous voudrions remercier les organisations suivantes pour leur support et
 leur contribution au chapitre de Montréal\!
