@@ -7,7 +7,7 @@ order: 1
 tags: OWASPMTL
 ---
 
-## **OWASP Montréal est à la recherche de conférenciers\!**
+## **OWASP Montréal est à la recherche de conférenciers/conférencières\!**
 -------------------------------------------------------------------
 Si vous souhaiteriez présenter, pour l’avancement de la science et de la
 connaissance en sécurité applicative, un sujet lors d'une prochaine
