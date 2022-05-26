@@ -3,7 +3,7 @@ title: Participation
 displaytext: Participation
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: OWASPMTL
 ---
 
