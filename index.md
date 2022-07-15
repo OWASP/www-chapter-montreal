@@ -26,7 +26,26 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+## Prochaine rencontre
 <br>
+
+### **9 août 2022: Séance d'ouverture **
+Cette séance, ouverte à tous, sera informelle et de type discussion ouverte. <br>
+Venez nous partager vos idées et suggestions pour la prochaine année ! <br>
+<br>
+
+**Date et heure:**
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Mardi 9 août 2022: &nbsp;&nbsp;&nbsp;7:00 PM – 7:30 PM HNE
+<br>
+<br>
+
+**RSVP! Free registration**
+<br>
+<a href="https://www.eventbrite.ca/e/billets-rencontre-de-chapitre-owasp-ville-de-quebec-237778189967"><img src="./assets/images/eventbrite_logo.png"></a>
+<br>
+<br>
+[**Join Zoom Meeting**]( https://us04web.zoom.us/j/75830431384?pwd=CnFARdUe-imRwM6Gi46DOz1VHDRP9p.1)
 <br>
 
 ---------------------
