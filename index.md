@@ -42,10 +42,8 @@ Venez nous partager vos idées et suggestions pour la prochaine année ! <br>
 
 **RSVP! Free registration**
 <br>
-<a href="https://www.eventbrite.ca/e/billets-rencontre-de-chapitre-owasp-ville-de-quebec-237778189967"><img src="./assets/images/Eventbrite.png"></a>
+<a href="https://www.eventbrite.com/e/owasp-mtl-seance-douverture-tickets-385239119577?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"><img src="./assets/images/eventbrite_logo.png"></a>
 <br>
-<br>
-[**Join Zoom Meeting**]( https://us04web.zoom.us/j/75830431384?pwd=CnFARdUe-imRwM6Gi46DOz1VHDRP9p.1)
 <br>
 
 ---------------------
