@@ -9,7 +9,7 @@ country: Canada
 postal-code: H2Y 2H6
 ---
 
-![Montreal Chapter Logo](assets/images/OWASP_Montreal.png)
+![Montreal Chapter Logo](assets/images/OWASP_Montreal_Chapter.png)
 
 ---
 ## Welcome / Bienvenue
