@@ -42,13 +42,12 @@ Le choc séismique causé par la pandémie de COVID-19 au tournant de 2020 a eu 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Vendredi 28 octobre 2022: &nbsp;&nbsp;&nbsp;12:00 – 13:00 PM HAE
 <br>
-<br>
 
 **Lieu de la séance**
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Complexe Desjardins
-&nbsp;&nbsp;&nbsp;&nbsp;150 Saint-Catherine Ouest
-&nbsp;&nbsp;&nbsp;&nbsp;Salle de coopération A
+&nbsp;&nbsp;&nbsp;&nbsp;Complexe Desjardins<br>
+&nbsp;&nbsp;&nbsp;&nbsp;150 Saint-Catherine Ouest<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Salle de coopération A<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Montréal, QC, H5B 0A5
 <br>
 <br>
