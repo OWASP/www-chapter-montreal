@@ -29,20 +29,33 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ## Prochaine rencontre
 <br>
 
-### **9 août 2022: Séance d'ouverture **
-Cette séance, ouverte à tous, sera informelle et de type discussion ouverte. <br>
-Venez nous partager vos idées et suggestions pour la prochaine année ! <br>
+### **28 octobre 2022: Conférence avec Jean-Philippe Décarie-Mathieu **
+Trois ans après : quels impacts à terme la COVID-19 eut-elle sur la sécurité de l'information? 
 <br>
+<br>
+
+**À propos de cet événement**
+<br>
+Le choc séismique causé par la pandémie de COVID-19 au tournant de 2020 a eu des répercussions sur le milieu de la cybersécurité : explosion des tentatives de phishing, délocalisation d'information sensible en télétravail forcé, montée en puissance des groupes de rançongiciel... quels impacts à long terme - positifs et négatifs - sur la sécurité de l'information peut-on constater deux ans après les faits? Retour sur un moment charnière de la sécurité et regard vers l'avant sur la gestion de risques numériques dans un monde incertain.
 
 **Date et heure:**
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Mardi 9 août 2022: &nbsp;&nbsp;&nbsp;7:00 PM – 7:30 PM HNE
+&nbsp;&nbsp;&nbsp;&nbsp;Vendredi 28 octobre 2022: &nbsp;&nbsp;&nbsp;12:00 – 13:00 PM HAE
 <br>
 <br>
 
-**RSVP! Free registration**
+**Lieu de la séance**
 <br>
-<a href="https://www.eventbrite.com/e/owasp-mtl-seance-douverture-tickets-385239119577?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"><img src="./assets/images/eventbrite_logo.png"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;Complexe Desjardins
+&nbsp;&nbsp;&nbsp;&nbsp;150 Saint-Catherine Ouest
+&nbsp;&nbsp;&nbsp;&nbsp;Salle de coopération A
+&nbsp;&nbsp;&nbsp;&nbsp;Montréal, QC, H5B 0A5
+<br>
+<br>
+
+**RSVP! Inscription gratuite (100 places de disponibles uniquement)**
+<br>
+<a href="https://www.eventbrite.com/e/billets-owasp-mtl-conference-avec-jean-philippe-decarie--411246488317?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"><img src="./assets/images/eventbrite_logo.png"></a>
 <br>
 <br>
 
