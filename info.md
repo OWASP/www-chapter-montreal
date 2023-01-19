@@ -4,3 +4,4 @@
 
 ### Social Links / Liens vers les réseaux sociaux
 * [Discord du HackFest](https://discord.gg/WcT5Xrd)
+* [AllMyLinks du Chapitre](https://allmylinks.com/owaspmtl)

@@ -21,3 +21,11 @@ Les séances ont lieu sur une base minimale mensuelle et se déroulent général
 
 <br>
 <br>
+
+# 2023
+
+{% assign page_event_2023 = site.pages | sort: 'name' | where_exp: "page", "page.path contains 'events/2023'" %}
+
+{% for page in page_event_2023 %}
+* [{{ page.title }}]({{site.baseurl }}{{ page.url }})
+{% endfor %}

@@ -29,32 +29,34 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ## Prochaine rencontre
 <br>
 
-### **28 octobre 2022: Conférence avec Jean-Philippe Décarie-Mathieu **
-Trois ans après : quels impacts à terme la COVID-19 eut-elle sur la sécurité de l'information? 
+### **Mardi 7 Mars 2023: Conférence avec Charles F.Hamilton A.K.A Mr.Un1k0d3r - Directeur sécurité offensive chez KPMG EGYDE**
+Développement dans un contexte de Red Teamer.
 <br>
 <br>
 
 **À propos de cet événement**
 <br>
-Le choc séismique causé par la pandémie de COVID-19 au tournant de 2020 a eu des répercussions sur le milieu de la cybersécurité : explosion des tentatives de phishing, délocalisation d'information sensible en télétravail forcé, montée en puissance des groupes de rançongiciel... quels impacts à long terme - positifs et négatifs - sur la sécurité de l'information peut-on constater deux ans après les faits? Retour sur un moment charnière de la sécurité et regard vers l'avant sur la gestion de risques numériques dans un monde incertain.
+Il est important en tant que développeur de développer de façon avertie. Ceci est aussi vrai pour le développement d’outils offensifs. Dans cette présentation Mr.Un1k0d3r abordera certaines astuces pouvant être utilisées durant des exercices de "Red Team" afin d’éviter d’être détecté par les outils de sécurité en place. Au menu : Astuce .Net pour nettoyer la mémoire après notre passage; rédaction de code en langage C réellement unique; comprendre les dessous de Windows et plus.
+
+Note : La séance sera également diffusée en Live via la page Youtube du chapitre.
 
 **Date et heure:**
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Vendredi 28 octobre 2022: &nbsp;&nbsp;&nbsp;12:00 – 13:00 PM HAE
+&nbsp;&nbsp;&nbsp;&nbsp;Mardi 7 mars 2022: &nbsp;&nbsp;&nbsp;12:00 – 13:00 PM HAE
 <br>
 
 **Lieu de la séance**
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Complexe Desjardins<br>
 &nbsp;&nbsp;&nbsp;&nbsp;150 Saint-Catherine Ouest<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Salle de coopération A<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Espace Desjardins<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Montréal, QC, H5B 0A5
 <br>
 <br>
 
 **RSVP! Inscription gratuite (100 places de disponibles uniquement)**
 <br>
-<a href="https://www.eventbrite.com/e/billets-owasp-mtl-conference-avec-jean-philippe-decarie--411246488317?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"><img src="./assets/images/eventbrite_logo.png"></a>
+<a href="https://www.eventbrite.com/e/billets-charles-f-hamilton-aka-mruni1k0d3r-dev-en-red-teaming-519795140257?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"><img src="./assets/images/eventbrite_logo.png"></a>
 <br>
 <br>
 
