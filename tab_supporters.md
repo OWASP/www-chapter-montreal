@@ -31,8 +31,8 @@ contribution to the local Montreal chapter\!
 
 <table class="sponsors-table">
     <tr>
-        <td> <a href="https://cyberdefense.ai/"> <img src="assets/images/logo_cybersecurity_20210601.png" alt="Cyberdefense" title="Cyberdefense"/> </a> </td>
         <td> <a href="https://www.desjardins.com/"> <img src="assets/images/desjardins-vector-logo.png" alt="Desjardins" title="Desjardins"/> </a> </td>
+        <td> <a href="https://cyberdefense.ai/"> <img src="assets/images/logo_cybersecurity_20210601.png" alt="Cyberdefense" title="Cyberdefense"/> </a> </td>
     </tr>
     <!-- <tr>
         <td> <a href="https://www.wegalvanize.com/"> <img src="assets/images/Galvanize.jpg" alt="Galvanize" title="Galvanize"/> </a> </td>

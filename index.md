@@ -29,34 +29,52 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ## Prochaine rencontre
 <br>
 
-### **Mardi 7 Mars 2023: Conférence avec Charles F.Hamilton A.K.A Mr.Un1k0d3r - Directeur sécurité offensive chez KPMG EGYDE**
-Développement dans un contexte de Red Teamer.
+### **Mercredi 4 Octobre 2023: Évenement réseautage OWASP MTL - OASIS SURF à Brossard**
+Soirée de réseautage présenté par OWASP MTL X DESJARDINS. Conférence, surf, tapas et consommations gratuites!
 <br>
 <br>
 
 **À propos de cet événement**
 <br>
-Il est important en tant que développeur de développer de façon avertie. Ceci est aussi vrai pour le développement d’outils offensifs. Dans cette présentation Mr.Un1k0d3r abordera certaines astuces pouvant être utilisées durant des exercices de "Red Team" afin d’éviter d’être détecté par les outils de sécurité en place. Au menu : Astuce .Net pour nettoyer la mémoire après notre passage; rédaction de code en langage C réellement unique; comprendre les dessous de Windows et plus.
+🌐 Rejoignez-nous pour une soirée inoubliable alliant Cybersécurité et Fun sur les Vagues ! 🏄‍♂️
 
-Note : La séance sera également diffusée en Live via la page Youtube du chapitre.
+Appel à tous les passionnés de la cybersécurité ! Rejoignez-nous pour une soirée riche en connaissances sur la cybersécurité, en réseautage, et une dose d'adrénaline alors que nous surfons sur les vagues.
+
+🌊 Moments Forts de l'Événement 🌊
+
+🔒 Rassemblement de la Communauté de la Cybersécurité : Connectez-vous avec vos collègues professionnels de la cybersécurité, partagez vos idées, et élargissez votre réseau dans une atmosphère détendue et dynamique.
+
+🍹 Boissons et Tapas Offerts : Soyez parmi les 50 premiers à vous inscrire et recevez 2 boissons rafraîchissantes offertes en remerciement de votre engagement précoce à cet événement ! Dégustez une délicieuse sélection de tapas tout au long de la soirée, faisant de cet événement un véritable festin pour les sens.
+
+🏄‍♂️ Expérience de Surf : Plongez dans l'excitation de la glisse sur les vagues avec 12 places disponibles pour une session de surf privée de 30 minutes. Accrochez-vous et chevauchez la vague d'excitation !
+
+🎤 Conférence Spéciale : Explorez en profondeur le monde de la Modélisation des Menaces avec une présentation de 30 minutes par Léandre Forget-Besnard. Acquérez des connaissances précieuses pour identifier et atténuer les menaces en cybersécurité.
+
+🤝 Sponsorisé par Desjardins : Nous sommes fiers d'avoir Desjardins comme sponsor, garantissant une expérience mémorable, fantastique et enrichissante pour tous les participants.
+
+🎫 Billets : Cet événement est gratuit, mais les places sont limitées. Réservez votre place dès aujourd'hui pour faire partie de cette soirée inoubliable. Au cas où les billets seraient épuisés, n'hésitez pas à venir quand même, nous ne refuserons aucune entrée. Les 50 premiers inscrits seront simplement les seuls à recevoir 2 billets pour des boissons gratuites.
+
+Ne manquez pas l'opportunité de combiner votre passion pour la cybersécurité avec l'excitation de la glisse sur les vagues. Rejoignez-nous à l'Oasis Surf Brossard le 4 octobre pour une soirée de réseautage, d'apprentissage, et de plaisir inoubliable.
+
+Les vagues vous attendent, passionnés de cybersécurité ! Nous avons hâte de vous y voir. 🏄‍♀️🔒 #OWASPWaveEvent
 
 **Date et heure:**
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Mardi 7 mars 2022: &nbsp;&nbsp;&nbsp;12:00 – 13:00 PM HAE
+&nbsp;&nbsp;&nbsp;&nbsp;Mardi 4 Octobre 2023: &nbsp;&nbsp;&nbsp;17:00 – 21:00 PM HAE
 <br>
 
 **Lieu de la séance**
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Complexe Desjardins<br>
-&nbsp;&nbsp;&nbsp;&nbsp;150 Saint-Catherine Ouest<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Espace Desjardins<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Montréal, QC, H5B 0A5
+&nbsp;&nbsp;&nbsp;&nbsp;Centre Surf Inside Oasis Surf<br>
+&nbsp;&nbsp;&nbsp;&nbsp;9520 Boulevard Leduc<br>
+&nbsp;&nbsp;&nbsp;&nbsp;#Suite 01<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Brossard, QC, J4Y 0B3
 <br>
 <br>
 
-**RSVP! Inscription gratuite (100 places de disponibles uniquement)**
+**RSVP! Inscription gratuite (50 places de disponibles uniquement avec consommations incluses)**
 <br>
-<a href="https://www.eventbrite.com/e/billets-charles-f-hamilton-aka-mruni1k0d3r-dev-en-red-teaming-519795140257?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb"><img src="./assets/images/eventbrite_logo.png"></a>
+<a href="https://www.eventbrite.com/e/billets-evenement-reseautage-owasp-mtl-oasis-surf-a-brossard-721525200297?aff=oddtdtcreator"><img src="./assets/images/eventbrite_logo.png"></a>
 <br>
 <br>
 
