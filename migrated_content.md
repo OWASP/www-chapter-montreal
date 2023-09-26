@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Montreal
+title: OWASP® Montreal
 tags: example-tag
 level: 0
 
