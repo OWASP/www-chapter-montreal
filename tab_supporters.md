@@ -12,7 +12,7 @@ Partenaire - Platine
 Nous sommes reconnaissants pour le soutien de notre partenaire principal, Cybereco, dans notre chapitre local de Montréal.
 We are grateful for the substantial support of our main partner, Cybereco, in our local Montreal chapter.
 
-<a href="https://cybereco.ca/en/"> <img src="assets/images/logo_w-1400x411noir.png" alt="Cybereco" title="Cybereco"/> </a>
+<a href="https://cybereco.ca/en/"> <img src="assets/images/CE_logo_H_tag_FR_Noir.png" alt="Cybereco" title="Cybereco"/> </a>
 
 -------------------------------------------------------------------
 
