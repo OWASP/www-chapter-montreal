@@ -6,13 +6,15 @@ tab: true
 order: 4
 tags: OWASPMTL
 ---
-Partenaire Platine
+Partenaire - Platine
 ----------
-We are grateful for the substantial support of our main partner, Cybereco, in our local Montreal chapter.
-
 Nous sommes reconnaissants pour le soutien de notre partenaire principal, Cybereco, dans notre chapitre local de Montréal.
+We are grateful for the substantial support of our main partner, Cybereco, in our local Montreal chapter.
+<br></br>
+<a href="https://cybereco.ca/en/"> <img src="assets/images/desjardins-vector-logo.png" alt="Desjardins" title="Desjardins"/> </a>
 
-Partenaires Or
+
+Partenaires - Or
 ----------
 Nous voudrions remercier les organisations suivantes pour leur support et
 leur contribution au chapitre de Montréal\!
