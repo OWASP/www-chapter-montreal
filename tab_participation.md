@@ -13,8 +13,9 @@ Si vous souhaiteriez présenter, pour l’avancement de la science et de la
 connaissance en sécurité applicative, un sujet lors d'une prochaine
 rencontre OWASP®, SVP communiquez avec nous\!
 
-- [Mélanie Comtois](mailto:melanie.comtois@owasp.org)
 - [Samuel Aubert](mailto:samuel.aubert@owasp.org)
+- [Jasmin Landry](mailto:jasmin.landry@owasp.org)
+- [Jonathan Marcil](mailto:jonathan.marcil@owasp.org)
 
 Toute intervention orale
 (présentation, formation) lors d'un meeting OWASP® est soumise à
@@ -41,7 +42,7 @@ faites-nous en part\! :**
 **Logistique :**
 
   - Les présentations sont généralement d'une durée de 40 minutes à 75 minutes et peuvent être présentées dans la langue de Molière ou bien de Shakespeare.
-  - Elles auront lieu préférablement un jour de semaine sur l'heure du diner et un petit buffet (sandwishs et crudités) vous sera offert (toutefois nous sommes ouverts à prendre d'autres arrangements si nécessaire).
+  - Elles auront lieu préférablement un jour de semaine sur l'heure du souper et un petit buffet vous sera offert (toutefois nous sommes ouverts à prendre d'autres arrangements si nécessaire).
   - Le contenu de la présentation devrait nous être soumis au moins une semaine à l'avance afin que nous puissions vérifier qu'elle respecte les valeurs de neutralité et d'impartialité d’OWASP®.
 
 **Notes :**
