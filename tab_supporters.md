@@ -6,6 +6,7 @@ tab: true
 order: 4
 tags: OWASPMTL
 ---
+
 Partenaire - Platine
 ----------
 Nous sommes reconnaissants pour le soutien de notre partenaire principal, Cybereco, dans notre chapitre local de Montréal.
