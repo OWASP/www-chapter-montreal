@@ -6,8 +6,13 @@ tab: true
 order: 4
 tags: OWASPMTL
 ---
+Partenaire Platine
+----------
+We are grateful for the substantial support of our main partner, Cybereco, in our local Montreal chapter.
 
-Supporters
+Nous sommes reconnaissants pour le soutien de notre partenaire principal, Cybereco, dans notre chapitre local de Montréal.
+
+Partenaires Or
 ----------
 Nous voudrions remercier les organisations suivantes pour leur support et
 leur contribution au chapitre de Montréal\!
