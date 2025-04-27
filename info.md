@@ -7,4 +7,4 @@
 * [AllMyLinks du Chapitre](https://allmylinks.com/owaspmtl)
 
 ### Open Source Project / Projet à Code Source Ouvert
-* [TASVS](https://github.com/OWASP/www-project-thick-client-application-security-verification-standard)
+* [Thick Client Application Security Verification Standard (TASVS)](https://github.com/OWASP/www-project-thick-client-application-security-verification-standard)
