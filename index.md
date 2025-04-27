@@ -32,9 +32,9 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 **RSVP! Inscription gratuite (100 places de disponibles uniquement)**
 <br>
-<a href="https://www.eventbrite.ca/e/panel-sur-lavenir-du-bug-bounty-tickets-1264424921979?aff=oddtdtcreator">Conference/Panel</a>
+<a href="https://www.eventbrite.ca/e/speeding-up-threat-modeling-by-leveraging-genai-tickets-1338546361199?aff=oddtdtcreator">Conference/Panel</a>
 <br>
-<a href="https://www.eventbrite.ca/e/panel-sur-lavenir-du-bug-bounty-tickets-1264424921979?aff=oddtdtcreator"><img src="./assets/images/eventbrite_logo.png"></a>
+<a href="https://www.eventbrite.ca/e/speeding-up-threat-modeling-by-leveraging-genai-tickets-1338546361199?aff=oddtdtcreator"><img src="./assets/images/eventbrite_logo.png"></a>
 <br>
 <br>
 
