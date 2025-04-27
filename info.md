@@ -5,3 +5,6 @@
 ### Social Links / Liens vers les réseaux sociaux
 * [Discord du HackFest](https://discord.gg/WcT5Xrd)
 * [AllMyLinks du Chapitre](https://allmylinks.com/owaspmtl)
+
+### Open Source Project / Projet à Code Source Ouvert
+* [TASVS](https://github.com/OWASP/www-project-thick-client-application-security-verification-standard)
