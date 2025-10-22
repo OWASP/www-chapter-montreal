@@ -1,0 +1,31 @@
+community:
+  - name: chapter-montreal
+    platform: slack
+    url: https://owasp.slack.com/archives/C08V6MHCH
+leaders:
+  - name: Samuel Aubert
+    email: samuel.aubert@owasp.org
+    github: matreurai
+  - name: Jasmin Landry
+    email: jasmin.landry@owasp.org
+  - name: Jonathan Marcil
+    email: jonathan.marcil@owasp.org
+    github: jmarcil
+location:
+  country: Canada
+  country_code: CA
+  region: Quebec
+  city: Montreal
+  postal_code: H2Y 2H6
+  latitude: 45.5031824
+  longitude: -73.5698065
+name: OWASP® Montreal
+repositories:
+  - name: www-chapter-montreal
+    url: https://github.com/OWASP/www-chapter-montreal
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASPMTL
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-montreal
