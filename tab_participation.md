@@ -14,6 +14,7 @@ connaissance en sécurité applicative, un sujet lors d'une prochaine
 rencontre OWASP®, SVP communiquez avec nous\!
 
 - [Samuel Aubert](mailto:samuel.aubert@owasp.org)
+- [Camile Chaoutene](mailto:camile.chaoutene@owasp.org)
 - [Jasmin Landry](mailto:jasmin.landry@owasp.org)
 - [Jonathan Marcil](mailto:jonathan.marcil@owasp.org)
 
